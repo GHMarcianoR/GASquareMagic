@@ -1,0 +1,3 @@
+/home/zumbi/CLionProjects/GAMagicSquare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zumbi/CLionProjects/GAMagicSquare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zumbi/CLionProjects/GAMagicSquare/cmake-build-debug/CMakeFiles/GAMagicSquare.dir

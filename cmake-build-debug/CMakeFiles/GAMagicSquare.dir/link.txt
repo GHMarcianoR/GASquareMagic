@@ -1,0 +1,1 @@
+/usr/bin/c++   -g  -static-libgcc -static-libstdc++ CMakeFiles/GAMagicSquare.dir/main.cpp.o CMakeFiles/GAMagicSquare.dir/Individual.cpp.o CMakeFiles/GAMagicSquare.dir/Population.cpp.o CMakeFiles/GAMagicSquare.dir/Comparator.cpp.o CMakeFiles/GAMagicSquare.dir/GeneticAlgorithm.cpp.o  -o GAMagicSquare 
